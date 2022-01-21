@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\P513\\Tasks\\task 2\\task 2.csproj": {}
+    "D:\\Development\\P513\\20210115-Task\\Tasks\\task 2\\task 2.csproj": {}
   },
   "projects": {
-    "D:\\Development\\P513\\Tasks\\task 2\\task 2.csproj": {
+    "D:\\Development\\P513\\20210115-Task\\Tasks\\task 2\\task 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\P513\\Tasks\\task 2\\task 2.csproj",
+        "projectUniqueName": "D:\\Development\\P513\\20210115-Task\\Tasks\\task 2\\task 2.csproj",
         "projectName": "task 2",
-        "projectPath": "D:\\Development\\P513\\Tasks\\task 2\\task 2.csproj",
+        "projectPath": "D:\\Development\\P513\\20210115-Task\\Tasks\\task 2\\task 2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\P513\\Tasks\\task 2\\obj\\",
+        "outputPath": "D:\\Development\\P513\\20210115-Task\\Tasks\\task 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\NuGetPackages"

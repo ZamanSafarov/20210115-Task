@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\P513\\Tasks\\task 5\\task 5.csproj",
+      "projectUniqueName": "D:\\Development\\P513\\20210115-Task\\Tasks\\task 5\\task 5.csproj",
       "projectName": "task 5",
-      "projectPath": "D:\\Development\\P513\\Tasks\\task 5\\task 5.csproj",
+      "projectPath": "D:\\Development\\P513\\20210115-Task\\Tasks\\task 5\\task 5.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\P513\\Tasks\\task 5\\obj\\",
+      "outputPath": "D:\\Development\\P513\\20210115-Task\\Tasks\\task 5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\NuGetPackages"
